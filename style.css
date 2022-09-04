@@ -103,6 +103,9 @@
          margin: 1em;
          margin-bottom: 2em;
       }
+      .navbar-custom {
+         height: 50px;
+      }
       .navbar {
          height:50px;
       }
