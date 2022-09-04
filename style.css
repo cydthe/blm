@@ -2,7 +2,7 @@
      html {
       box-sizing: border-box;
       padding: 2em;
-      padding-top: 0;
+      padding-top: 0; /*did nothing*/
     }    
      body{
          background-color: black;
@@ -10,7 +10,7 @@
       }
      h1{
         text-align: center;
-        padding-top: .2em;
+        padding-top: 0em;
         padding-bottom: .2em;
      }
      h2{
