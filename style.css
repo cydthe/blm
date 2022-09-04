@@ -42,6 +42,7 @@
      }
      a:hover {
       color: gold;
+      text-decoration: none;
      }
      a:active {
       color: yellow;
