@@ -64,7 +64,7 @@
        
     }
     p{
-       color:honeydew;
+       color:rgb(0, 103, 0);
        margin-top: 0em;
        font-size: 12px;
     }
@@ -91,7 +91,7 @@
          display: flex; 
       }
       #ppl{
-      color: honeydew;
+      color: rgb(89, 240, 89);
       float: right;
      
       }
@@ -118,8 +118,7 @@
          border-radius: 50%;
       }
       .introduction {
-         padding-block-start: 2ch;
-         padding-block-end: -2ch;
+         padding: 10%;
          text-size-adjust: 16px;
          margin-top: 20px;
       }
