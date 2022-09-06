@@ -46,7 +46,7 @@
       text-decoration: none;
      }
      a:active {
-      color: rgb(0, 0, 0);
+      color: rgb(255, 255, 255);
     }
     div.flex-container#donl{
        display:flex;
@@ -118,10 +118,10 @@
          border-radius: 50%;
       }
       .introduction {
-         margin-top: 15px;
-         margin-left: 5px;
-         margin-right: 5px;
-         text-size-adjust: 12px;
+         padding-block-start: 2ch;
+         padding-block-end: -2ch;
+         text-size-adjust: 16px;
+         margin-top: 20px;
       }
       #navbarNavAltMarkup a.nav-item-nav-link-active {
          background-color: azure;
