@@ -55,9 +55,8 @@
        display:flex;
        flex-wrap: wrap;
        justify-content: center;
-       padding: 1em;
+       padding: 5em;
        margin-bottom: 2em;
-       margin:5em;
     }
     div.flex-items{
        margin: 5px;
