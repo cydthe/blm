@@ -11,9 +11,9 @@
       }
      img {
       vertical-align: middle;
-      padding-top: 5em;
-      padding-left: 2em;
-      padding-right: 2em;
+      padding-top: 0em;
+      padding-left: 0em;
+      padding-right: em;
      }
      footer{
         display: flex;
@@ -116,7 +116,7 @@
       .navbar {
          height:80px;
       }
-      .mainpic {
+      img.mainpic {
          width:30px;
          height:30px;
       }
