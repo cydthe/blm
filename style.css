@@ -119,9 +119,11 @@
       img.mainpic {
          width:60px;
          height:auto;
+         border-radius: 50%;
       }
       .introduction {
          padding-top: 15px;
-         margin: 15px;
+         margin-left: 5px;
+         margin-right: 5px;
          text-size-adjust: 12px;
       }
