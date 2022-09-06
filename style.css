@@ -41,15 +41,12 @@
       color:black;
       text-decoration: none;
      }
-     a:visited {
-      color:rgba(255, 255, 255, 0.901);
-     }
      a:hover {
       color: gold;
       text-decoration: none;
      }
      a:active {
-      color: rgb(221, 241, 209);
+      color: rgb(0, 0, 0);
     }
     div.flex-container#donl{
        display:flex;
@@ -121,7 +118,7 @@
          border-radius: 50%;
       }
       .introduction {
-         padding-top: 15px;
+         margin-top: 15px;
          margin-left: 5px;
          margin-right: 5px;
          text-size-adjust: 12px;
