@@ -51,7 +51,7 @@
     div.flex-container#donl{
        display:flex;
        flex-wrap: wrap;
-       justify-content: space-around;
+       justify-content: center;
        padding: 1em;
        margin-bottom: 2em;
     }
