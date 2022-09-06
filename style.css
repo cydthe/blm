@@ -6,7 +6,7 @@
     }    
      body{
          background-color: black;
-         font: 16px 'Gilroy', sans-serif;
+         font: 12px 'Gilroy', sans-serif;
          text-align: center;
       }
      img {
@@ -42,14 +42,14 @@
       text-decoration: none;
      }
      a:visited {
-      color:rgb(95, 93, 93);
+      color:rgba(255, 255, 255, 0.901);
      }
      a:hover {
       color: gold;
       text-decoration: none;
      }
      a:active {
-      color: yellow;
+      color: rgb(221, 241, 209);
     }
     div.flex-container#donl{
        display:flex;
@@ -121,7 +121,7 @@
          height:auto;
       }
       .introduction {
-         padding-top: 10px;
+         padding-top: 15px;
          margin: 15px;
          text-size-adjust: 12px;
       }
