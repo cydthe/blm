@@ -117,6 +117,9 @@
          height:80px;
       }
       img.mainpic {
-         width:80px;
+         width:60px;
          height:auto;
+      }
+      .introduction {
+         margin: 10px;
       }
