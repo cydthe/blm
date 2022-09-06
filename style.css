@@ -6,14 +6,14 @@
     }    
      body{
          background-color: black;
-         font: 18px 'Gilroy', sans-serif;
+         font: 16px 'Gilroy', sans-serif;
          text-align: center;
       }
-    li {
-       text-align: center;
-     }
      img {
       vertical-align: middle;
+      padding-top: 5em;
+      padding-left: 2em;
+      padding-right: 2em;
      }
      footer{
         display: flex;
@@ -104,6 +104,7 @@
       }
       li{
          display: flex;
+         text-align: center;
       }
       ul{
          margin: 1em;
@@ -112,7 +113,7 @@
       .navbar-custom {
          height: 100px;
       }
-      .navbar {
+      /*.navbar {
          height:50px;
-      }
+      }*/
       
