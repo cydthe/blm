@@ -127,3 +127,6 @@
          margin-right: 5px;
          text-size-adjust: 12px;
       }
+      #navbarNavAltMarkup a.nav-item-nav-link-active {
+         background-color: azure;
+      }
