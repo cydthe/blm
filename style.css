@@ -6,7 +6,7 @@
     }    
      body{
          background-color: black;
-         font: 12px 'Gilroy', sans-serif;
+         font: 114px 'Gilroy', sans-serif;
          text-align: center;
       }
      img {
@@ -23,7 +23,7 @@
         width: 100%;
         color: white;
         margin: 0em;
-        font-size: 16px;
+        font-size: 14px;
         box-sizing: border-box;
         padding: 0em;
         
@@ -46,7 +46,7 @@
       text-decoration: none;
      }
      a:active {
-      color: rgb(255, 255, 255);
+      color: black;
     }
     div.flex-container#donl{
        display:flex;
@@ -124,5 +124,5 @@
          margin-top: 20px;
       }
       #navbarNavAltMarkup a.nav-item-nav-link-active {
-         background-color: azure;
+         background-color: black;
       }
