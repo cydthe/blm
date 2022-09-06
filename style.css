@@ -12,6 +12,10 @@
     li {
        text-align: center;
      }
+     img {
+      vertical-align: middle;
+      align-items: center;
+     }
      footer{
         display: flex;
         justify-content: center;
