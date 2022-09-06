@@ -111,9 +111,12 @@
          margin-bottom: 2em;
       }
       .navbar-custom {
-         height: 200px;
+         height: 100px;
       }
-      /*.navbar {
+      .navbar {
          height:50px;
-      }*/
-      
+      }
+      .navbar-brand {
+         width:46;
+         height:46;
+      }
