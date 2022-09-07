@@ -48,6 +48,9 @@
      a:active {
       color: black;
     }
+    a:visited {
+      color:none;
+    }
     div.flex-container#donl{
        display:flex;
        flex-wrap: wrap;
