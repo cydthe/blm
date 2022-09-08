@@ -67,9 +67,9 @@
        
     }
     p{
-       color:rgb(0, 103, 0);
+       color:white;
        margin-top: 0em;
-       font-size: 12px;
+       font-size: 16px;
     }
     div.flex-items-home{
        display: flex;
